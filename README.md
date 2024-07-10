@@ -20,3 +20,6 @@ Definición de como definir y mostrar constantes.
 
 Definición de que es un array y sus distintos tipos.
 
+## Clase 6 -> Concatenación
+
+Definición de que se trata la concatenación ejemplos sobre distintos tipos y diferencias.
