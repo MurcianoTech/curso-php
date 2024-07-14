@@ -82,3 +82,4 @@ Estas sentencias son una contracción de la sentencia IF-ELSE para mejorar la es
 
 ### Sentencias SWITCH
 
+Esta sentencia nos permite tener una condición y evaluarla con distintos resultados, parecida a los IF, pero con más resultados para analizar distintos casos.
