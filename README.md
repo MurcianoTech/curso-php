@@ -67,3 +67,10 @@ Definición de los distintos componentes, se detallan a continuación.
 
 - Operandor AND -> &&
 - Operador OR -> ||
+
+## Clase 8 -> Estructuras condicionales
+
+### Sentencias IF, IF ELSE y IF ELSEIF ELSE
+
+En esta clase se va a explicar el procedimiento para llegar a entender las sentencias IF con sus variantes para establecer condiciones en nuestro código que se ejecute cuando se produzca una cierta condición y realizar una serie de instrucciones concretas para dicha condición.
+
