@@ -74,3 +74,11 @@ Definición de los distintos componentes, se detallan a continuación.
 
 En esta clase se va a explicar el procedimiento para llegar a entender las sentencias IF con sus variantes para establecer condiciones en nuestro código que se ejecute cuando se produzca una cierta condición y realizar una serie de instrucciones concretas para dicha condición.
 
+### Sentencias Ternarias
+
+Estas sentencias son una contracción de la sentencia IF-ELSE para mejorar la escritura del código. Aunque solo está definida para una sola instrucción a realizar dependiendo de la condición que se esté evaluando.
+
+### Sentencias MATCH
+
+### Sentencias SWITCH
+
