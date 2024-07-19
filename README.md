@@ -95,7 +95,7 @@ Estructura de control que se utiliza para ejecutar un conjunto de 처rdenes en c�
 
 ### Bucle Do-While
 
-
+Estructura de control que se utiliza para ejecutar un conjunto de 처rdenes en c처digo de manera secuencial siempre y cuando se cumple la condici처n que se expone en su clausula, siempre se ejecuta antes el conjunto de isntrucciones y luego, se comprueba dicha condici처n.
 
 ### Bucle For
 
