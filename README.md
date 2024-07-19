@@ -78,8 +78,27 @@ En esta clase se va a explicar el procedimiento para llegar a entender las sente
 
 Estas sentencias son una contracción de la sentencia IF-ELSE para mejorar la escritura del código. Aunque solo está definida para una sola instrucción a realizar dependiendo de la condición que se esté evaluando.
 
-### Sentencias MATCH
-
 ### Sentencias SWITCH
 
 Esta sentencia nos permite tener una condición y evaluarla con distintos resultados, parecida a los IF, pero con más resultados para analizar distintos casos.
+
+### Sentencias MATCH
+
+Igual de entender que la sentencia SWITCH, pero mejorado con una mayor optimización y resultados más claros y asignación a variables.
+
+
+## Clase 9 -> Estructuras condicionales
+
+### Bucle While
+
+Estructura de control que se utiliza para ejecutar un conjunto de órdenes en código de manera secuencial siempre y cuando se cumple la condición que se expone en su clausula.
+
+### Bucle Do-While
+
+
+
+### Bucle For
+
+
+### Bucle Foreach
+
