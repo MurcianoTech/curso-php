@@ -99,6 +99,16 @@ Estructura de control que se utiliza para ejecutar un conjunto de órdenes en c�
 
 ### Bucle For
 
+Estructura de control que se utiliza para ejecutar un conjunto de instrucciones desde un inicio a un fin, normalmente haciendo uso de un índice para determinar cuantas iteraciones se van a realizar del bucle.
 
 ### Bucle Foreach
 
+Esta estructura es parecida al For con la ventaja de que podemos recorrer objetos o arrays y conseguir tanto su valor como su clave sin tener que hacer uso de los índices que nos indicaban en el bucle For.
+
+### Condición especial Break 
+
+Esta instrucción nos indica que podemos parar la ejecución del bucle o ciclo siempre y cuando se cumpla cierta condición que pongamos o directamente cortarlo si lo ponemos en claro en el código.
+
+### Condición especial Continue
+
+Esta instrucción nos indica que podemos continuar la ejecución del bucle o ciclo siempre y cuando se cumpla cierta condición que pongamos o directamente continuarlo si lo ponemos en claro en el código.
