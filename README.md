@@ -112,3 +112,9 @@ Esta instrucción nos indica que podemos parar la ejecución del bucle o ciclo s
 ### Condición especial Continue
 
 Esta instrucción nos indica que podemos continuar la ejecución del bucle o ciclo siempre y cuando se cumpla cierta condición que pongamos o directamente continuarlo si lo ponemos en claro en el código.
+
+## Clase 10 -> Funciones
+
+Las funciones son estructuras que contienen partes de código que serán utilizadas en varias partes de nuestro código, facilitando la reutilización del código y no estar escribiendo el mismo código en las diferentes partes que hagan falta en nuestro proyecto.
+
+Digamos que tiene una única responsabilidad por cada función como serialización de clases, cálculos repetitivos, comprobaciones de variables, etc.
