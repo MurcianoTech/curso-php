@@ -1,1 +1,1 @@
-# curso-php
+# practice-programming-excercises
